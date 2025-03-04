@@ -1,0 +1,24 @@
+# Style Guide for Krishna Shinde's Portfolio
+
+## Fonts
+- Primary Font: Poppins
+- Secondary Font: Mulish
+
+## Colors
+- Background Color: #ffffff (White)
+- Header Background Color: #007bff (Brighter Blue)
+- Text Color: #333 (Dark Gray)
+- Link Hover Color: #ffc107 (Yellow)
+
+## Layout
+- Use flexbox for navigation and layout structures.
+- Ensure responsiveness for different screen sizes.
+- Maintain consistent padding and margins throughout the design.
+
+## Components
+- Chatbot: Positioned fixed at the bottom left with a light background and rounded corners.
+- Navigation: Fixed at the top with a smooth transition for background color on scroll.
+
+## Additional Notes
+- Ensure all images are optimized for web use.
+- Validate HTML and CSS for errors before deployment.
